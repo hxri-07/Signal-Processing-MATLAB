@@ -8,4 +8,4 @@ To get started:
 1. Download MATLAB
 2. Open the file in MATLAB
 3. In the directory where you save the file (with the code), also save the recording you want to be processed.
-4. You can record anything, just make sure the file is of type .wav and with the name, Recording.
+4. You can record anything, just make sure the file is of type .wav and with the name Recording.
