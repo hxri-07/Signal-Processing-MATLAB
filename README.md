@@ -1,6 +1,6 @@
 # Signal-Processing-MATLAB
 
-This is a project coded in MATLAB. Basically we play around with the signal, like representing its phoenetics, passing it through and LPF, HPF, noise removal etc. both in time and frequency domains. The Project.docx file will give more of an insight as to what this is about.
+This is a project coded in MATLAB. Basically performs different operations with the signal, like representing its phoenetics, passing it through LPF and HPF, noise removal etc. both in time and frequency domains. The Project.docx file will give more of an insight as to what this is about.
 
 I had coded this project back in November 2023, when I was in my 3rd semester at college. Uploaded it on GitHub for future reference.
 
